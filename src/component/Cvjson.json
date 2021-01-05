@@ -1,0 +1,28 @@
+{
+    "basics": {
+      "Name 👧 : ": "Amrita Shrestha",
+      "Email : ": "amritaxtha10@gmail.com",
+      "Phone 📱 : ": "9846839433",
+      "Website : ": "linkedin.com",
+      "Location": {
+        "PostalCode : ": "33912",
+        "City 🏙️ :": " Suklagandaki-04,Dulegauda",
+        "CountryCode :": " NP",
+        "Province  :":" 04"
+      }
+      
+    },
+    "application":{
+        "About Myself 🎤 : ":" I had worked as a front-end developer in college project. Had basic knowledge of database.Good at academic."
+    },
+    "education": [{
+      "Institution 🏫 : ": "Gandaki College of Engineering and Science",
+      "Area : ": "Science and technology",
+      "Faculty 🖥️ : ": "Software Engineering",
+      "StudyType : ": "Bachelor degree",
+      "Year : ": "fourth"
+    }],
+    "skills": {
+      "Language : " : "HTML   CSS   JAVASCRIPT  ES6   REACTJS   GIT   PYTHON   MYSQL"
+    }
+  }
